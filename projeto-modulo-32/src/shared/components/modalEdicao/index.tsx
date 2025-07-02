@@ -14,12 +14,12 @@ import { useUpdadeContatoMutation } from "../../services/api";
 import { obterContato } from "../../services/reducers/contatos";
 
 // ToDo: implementar lista de números de telefones. Para que possa ser adicionado mais de um.
-// Isso pode ser feito utilizando um botão de + ao lado.
+//? Isso pode ser feito utilizando um botão de + ao lado.
 // ToDo: colocar botões de mudança de status, acima do input, sendo:
-// estrela para favorito.
-// losango ou um icone de enfermagem para indicar contato de emergência.
-// e o padrão normal caso não marque nenhum.
-// isto deve automaticamente modificar a mensagem, sendo a mais forte a de emergência.
+//* estrela para favorito.
+//* losango ou um icone de enfermagem para indicar contato de emergência.
+//* e o padrão normal caso não marque nenhum.
+//* isto deve automaticamente modificar a mensagem, sendo a mais forte a de emergência.
 // ToDo: adicionar biblioteca Toastify para renderizar mensagens de feedback das funções.
 
 function ModalEdicao() {

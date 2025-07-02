@@ -2,9 +2,9 @@
   "contato": [
     {
       "id": "1",
-      "nome": "Howard Lewis",
-      "email": "Howlewie@email.com",
-      "telefone": "(123) 456-7890",
+      "nome": "Howard Lewiss",
+      "email": "",
+      "telefone": "",
       "categoriaId": 1
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "id": "6",
-      "nome": "John Doe",
-      "email": "johndoe@example.com",
-      "telefone": "(123) 456-7890",
+      "nome": "John Doen",
+      "email": "",
+      "telefone": "",
       "categoriaId": 1
     }
   ],
